@@ -1,6 +1,6 @@
 This is a simple yet elegant Profile Card built using HTML, CSS, and JavaScript. It highlights my frontend skills and showcases an interactive user interface.
 
->> The card displays:
+> The card displays:
 - My profile picture
 - LinkedIn and GitHub buttons with direct links
 - An About Me section introducing who I am
